@@ -1,0 +1,100 @@
+.div{
+width: 100%;
+}
+.item{
+    width: 33%;
+    height: 50px;
+    color:white;
+    background-color: blueviolet;
+}
+.main{ 
+    width: 33%;
+    height: 50px;
+   color:white;
+   background-color: blue;
+}
+.span{ 
+    width: 33%;
+    height: 50px;
+   color:white;
+   background-color: orange;
+   display: inline-block;
+}
+.block{ 
+    width: 33%;
+    height: 50px;
+   color:white;
+   background-color: brown;
+}
+.line{ 
+    width: 33%;
+    height: 50px;
+   color:white;
+   background-color:mediumspringgreen ;
+}
+.item1{ 
+    width: 33%;
+    height: 50px;
+   color:white;
+   background-color:navy ;
+
+}
+.main1{
+     width: 33%;
+    height: 50px;
+   color:white;
+   background-color:hotpink ;
+}
+.span1{
+     width: 33%;
+    height: 50px;
+   color:white;
+   background-color:grey ;
+}
+.line1{
+     width: 33%;
+    height: 50px;
+   color:white;
+   background-color:green ;
+}
+.item2{
+     width: 33%;
+    height: 50px;
+   color:white;
+   background-color: black;
+}
+.main2{ 
+    width: 33%;
+    height: 50px;
+   color:white;
+   background-color: chartreuse;
+}
+.but1{
+    width: 33%;
+    margin: 1.53%;
+    padding:1%;
+    text-align: center;
+    display:inline-block;
+    
+}
+.but4{
+    width: 33%;
+    margin: 1.53%;
+    padding:1%;
+    text-align: center;
+    display: inline-block;
+}
+.but7{
+     width: 33%;
+     margin: 1.53%;
+     padding:1%;
+     text-align: center;
+    display: inline-block;
+}
+.but8{
+    width: 33%;
+    margin: 1.53%;
+    padding:1%;
+    text-align: center;
+    display: inline-block;
+}
